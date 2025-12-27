@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "High Wall",
+  "base_artist": "guca owl",
+  "createdAt": "2025-12-27T14:40:02.247897Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "High Wall",
+      "artist": "guca owl",
+      "has_synced": true,
+      "path": "select/01_High_Wall_guca_owl.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "High Wall",
+      "artist": "guca owl",
+      "has_synced": false,
+      "path": "select/pl_01_High_Wall_guca_owl.txt"
+    }
+  ]
+}
